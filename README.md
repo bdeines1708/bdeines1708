@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bdeines1708
 - 👀 I’m interested in ...data analysis
-- 🌱 I’m currently learning ...version control
+- 🌱 I’m currently learning ...data science
 - 💞️ I’m looking to collaborate on ...
 - how to reach me ...  bdei1708@gmail.com ph#(507)440-1418
 - 😄 Pronouns: ...
